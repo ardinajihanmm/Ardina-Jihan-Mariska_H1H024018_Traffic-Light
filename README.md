@@ -62,6 +62,8 @@ Sistem akan terus berjalan secara looping tanpa henti.
 
 🧪 Hasil Simulasi
 
+<img width="862" height="577" alt="image" src="https://github.com/user-attachments/assets/bede4ae3-64ab-4410-b17e-a4bb79eaa6df" />
+
 Simulasi menunjukkan bahwa:
 
 - Lampu menyala secara bergantian
