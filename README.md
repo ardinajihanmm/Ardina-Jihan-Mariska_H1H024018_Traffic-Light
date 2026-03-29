@@ -1,3 +1,8 @@
+# 🌻 Dibuat Oleh
+NAMA : ARDINA JIHAN MARISKA
+NIM  : H1H024018
+
+
 # 🚦 Traffic Light 4-Way Control using Arduino Uno
 
 Project ini merupakan simulasi sistem lampu lalu lintas 4 arah menggunakan Arduino Uno yang dibuat pada platform Tinkercad. Sistem ini mengontrol 12 LED yang merepresentasikan lampu merah, kuning, dan hijau pada setiap arah persimpangan.
@@ -42,7 +47,6 @@ Setiap arah memiliki 3 pin untuk lampu merah, kuning, dan hijau:
 
 Semua LED dihubungkan ke Arduino melalui resistor dan menuju ke GND.
 
----
 
 ## ⚙️ Cara Kerja Sistem
 
@@ -62,7 +66,8 @@ Sistem akan terus berjalan secara looping tanpa henti.
 
 🧪 Hasil Simulasi
 
-<img width="862" height="577" alt="image" src="https://github.com/user-attachments/assets/bede4ae3-64ab-4410-b17e-a4bb79eaa6df" />
+<img width="862" height="622" alt="image" src="https://github.com/user-attachments/assets/b056d085-bddf-4720-bddd-7ddd1deb192a" />
+
 
 Simulasi menunjukkan bahwa:
 
